@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  BinaryTree.cpp
+  Node.cpp
+d:\project\c++\node\node\node.cpp(61): warning C4018: '<': signed/unsigned mismatch
+d:\project\c++\node\node\node.cpp(84): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\project\c++\node\node\node.cpp(95): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Node.vcxproj -> D:\Project\C++\Node\Debug\Node.exe
